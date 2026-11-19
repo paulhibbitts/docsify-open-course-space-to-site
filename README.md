@@ -10,11 +10,11 @@ The original course is licensed under [CC BY-NC 4.0](https://creativecommons.org
 
 - `home.md` – the course's home page, with `home-*.md` for the pages shown as cards
 - `modules.md` – a card for each module
-- `module-1-pre-session-activities.md` … `module-5-*.md`, `easy-access-to-course-files.md` and `additional-resources.md` – each module's overview
+- `module-1-pre-session-activities.md` … `module-5-*.md` and `additional-resources.md` – each module's overview
 - `module-01-01-*.md` … – the pages inside each module
 - `essentials.md`, `resources.md`, `syllabus.md` – the course's other pages
 - `images/` – the course's images
 
-Attached files such as PDFs weren't carried over – their pages say so.
+Attached files such as PDFs weren't carried over, so the course's Easy access to course files module, which only had files, isn't here.
 
 The pages are clean Markdown, without the bridge's hidden notes. The bridge can still turn them into an Open Course Space course, like any Docsify site, but not exactly.

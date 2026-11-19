@@ -46,14 +46,6 @@ The course outcome is to: Reflect on your experiences as an online learner and s
 
 <div class="card">
 
-## [Easy access to course files](easy-access-to-course-files.md) <!-- {docsify-ignore} -->
-
-<p></p>
-
-</div>
-
-<div class="card">
-
 ## [Additional resources](additional-resources.md) <!-- {docsify-ignore} -->
 
 Active learning - A method of teaching that involves more than just reading and watching videos. Students actively engage in problem solving, writing or other activities. This approach encourages evaluation, synthesis and analysis (higher knowledge levels according to Bloom) than just finding the "right" answer.

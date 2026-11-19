@@ -45,7 +45,7 @@ The purpose of week 1 is to get you to meet each other, and share your experienc
 
 ## [Syllabus](home-syllabus.md) <!-- {docsify-ignore} -->
 
-INSTRUCTOR Add instructor name and contact information here OFFICE HOURS: Held weekly over Zoom for the 5 weeks – Drop in for a chat / Q&A/ feedback / sounding board
+This non credit course is designed to provide you with a foundation for teaching online. ITO is a 5 week mostly asynchronous, course with three synchronous sessions built in. At the end of this course you will have started to plan your online course by creating course outcomes, module learning objectives, and selecting appropriate assessment strategies and learning materials.
 
 </div>
 
@@ -66,3 +66,6 @@ To add your name to the table click the edit button at the top RHS of the page, 
 </div>
 
 </div>
+
+
+Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
