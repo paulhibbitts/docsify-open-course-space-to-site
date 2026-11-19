@@ -144,3 +144,48 @@ Authentic assessments -
 
 > [!WARNING]
 > The following LTI tool item(s) could not be converted and must be accessed in the original course: "Academic Integrity Tutorial"
+
+
+<div class="card-list-rows">
+
+<div class="card">
+
+## [Do This, Not That Online Teaching @ KIS.pdf](module-07-01-do-this-not-that-online-teaching-kis.md) <!-- {docsify-ignore} -->
+
+</div>
+
+<div class="card">
+
+## [Workload estimator](module-07-02-workload-estimator.md) <!-- {docsify-ignore} -->
+
+</div>
+
+<div class="card">
+
+## [netiquette-usask-simple-290720.pdf](module-07-03-netiquette-usask-simple-290720.md) <!-- {docsify-ignore} -->
+
+</div>
+
+<div class="card">
+
+## [netiquette-usask-detailed-270720.pdf](module-07-04-netiquette-usask-detailed-270720.md) <!-- {docsify-ignore} -->
+
+</div>
+
+<div class="card">
+
+## [Active Learning whilst physically distancing.](module-07-05-active-learning-whilst-physically-distancing.md) <!-- {docsify-ignore} -->
+
+If you are looking for practical strategies to make your teaching engaging and impactful, this document outlines some approaches that you can use in online synchronous, online asynchronous and face-to-face distanced settings.
+
+</div>
+
+<div class="card">
+
+## [Zoom web conferencing](module-07-06-zoom-web-conferencing.md) <!-- {docsify-ignore} -->
+
+Access Zoom articles from the Universities Zoom Landing page.
+
+</div>
+
+</div>
