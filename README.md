@@ -1,6 +1,6 @@
-# Introduction to Teaching Online – Converted to Docsify-This
+# Introduction to Teaching Online – Moved to Docsify-This
 
-> The Canvas Commons course Introduction to Teaching Online, brought into Grav Open Course Space from its Common Cartridge export by the [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org), then converted to plain Markdown pages for [Docsify-This](https://docsify-this.net/#/) by the [Open Publishing Course Space Bridge](https://open-publishing-course-space-bridge.hibbittsdesign.org).
+> The Canvas Commons course Introduction to Teaching Online, brought into Grav Open Course Space from its Common Cartridge export by the [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org), then moved to [Docsify-This](https://docsify-this.net/#/) as plain Markdown pages by the [Open Publishing Course Space Bridge](https://open-publishing-course-space-bridge.hibbittsdesign.org).
 
 View it as a website: https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-open-course-space-to-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&collapsibleSidebarGroups=true&collapseSidebarGroups=true&dark-mode=auto&name=Introduction%20to%20Teaching%20Online
 
