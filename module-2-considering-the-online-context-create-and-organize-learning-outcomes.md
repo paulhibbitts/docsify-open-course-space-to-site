@@ -34,7 +34,7 @@ Online courses must be well structured. If you think about it, semesters and cre
 
 <div class="card">
 
-## [✍Self-assessment (Pre-course)](module-02-03-self-assessment-pre-course.md) <!-- {docsify-ignore} -->
+## [✍ Self-assessment (Pre-course)](module-02-03-self-assessment-pre-course.md) <!-- {docsify-ignore} -->
 
 This self-assessment rubric has been specifically designed for the ITO course. The criteria in the rubric are all aligned with the course outcomes and module learning objectives.
 
@@ -42,7 +42,7 @@ This self-assessment rubric has been specifically designed for the ITO course. T
 
 <div class="card">
 
-## [✍Writing your own course outcomes and learning objectives](module-02-04-writing-your-own-course-outcomes-and-learning-objectives.md) <!-- {docsify-ignore} -->
+## [✍ Writing your own course outcomes and learning objectives](module-02-04-writing-your-own-course-outcomes-and-learning-objectives.md) <!-- {docsify-ignore} -->
 
 Using the information you have learned write between 2- 5 course outcomes for your online course and break them down into between 1 - 3 module learning objectives.
 

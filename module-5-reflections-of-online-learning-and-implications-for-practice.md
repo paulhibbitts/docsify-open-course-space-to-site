@@ -25,7 +25,7 @@ Reflective learning is where we put some time aside to think about what we have 
 
 <div class="card">
 
-## [✍Self-assessment  (Post-course)](module-05-02-self-assessment-post-course.md) <!-- {docsify-ignore} -->
+## [✍ Self-assessment (Post-course)](module-05-02-self-assessment-post-course.md) <!-- {docsify-ignore} -->
 
 This self-assessment rubric has been specifically designed for the ITO course. The criteria in the rubric are all aligned with the course outcomes and module learning objectives.
 

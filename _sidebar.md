@@ -1,25 +1,25 @@
 - Module 1 - Pre-session activities
   - [Module 1 Overview](module-1-pre-session-activities.md)
-  - [✍Competencies for Online Teaching](module-01-01-competencies-for-online-teaching.md)
+  - [✍ Competencies for Online Teaching](module-01-01-competencies-for-online-teaching.md)
 - Module 2 - Considering the online context, create and organize learning outcomes
   - [Module 2 Overview](module-2-considering-the-online-context-create-and-organize-learning-outcomes.md)
   - [Considering the online context](module-02-01-considering-the-online-context.md)
   - [Begin with the end in mind - Backward planning](module-02-02-begin-with-the-end-in-mind-backward-planning.md)
-  - [✍Self-assessment (Pre-course)](module-02-03-self-assessment-pre-course.md)
-  - [✍Writing your own course outcomes and learning objectives](module-02-04-writing-your-own-course-outcomes-and-learning-objectives.md)
+  - [✍ Self-assessment (Pre-course)](module-02-03-self-assessment-pre-course.md)
+  - [✍ Writing your own course outcomes and learning objectives](module-02-04-writing-your-own-course-outcomes-and-learning-objectives.md)
 - Module 3 - Select and use effective online formative and summative assessment strategies
   - [Module 3 Overview](module-3-select-and-use-effective-online-formative-and-summative-assessment-strategies.md)
   - [Assessments and activities that align with learning objectives](module-03-01-assessments-and-activities-that-align-with-learning-objectives.md)
-  - [✍Select effective assessments and activities that align with course outcomes](module-03-02-select-effective-assessments-and-activities-that-align-with-course-outcomes.md)
+  - [✍ Select effective assessments and activities that align with course outcomes](module-03-02-select-effective-assessments-and-activities-that-align-with-course-outcomes.md)
   - [START-STOP-CONTINUE](module-03-03-start-stop-continue.md)
 - Module 4 - Select and use effective online instructional approaches
   - [Module 4 Overview](module-4-select-and-use-effective-online-instructional-approaches.md)
   - [Instructional strategies](module-04-01-instructional-strategies.md)
-  - [✍Select effective Instructional strategies for online learning](module-04-02-select-effective-instructional-strategies-for-online-learning.md)
+  - [✍ Select effective Instructional strategies for online learning](module-04-02-select-effective-instructional-strategies-for-online-learning.md)
 - Module 5 - Reflections of online learning and implications for practice
   - [Module 5 Overview](module-5-reflections-of-online-learning-and-implications-for-practice.md)
   - [Reflection models](module-05-01-reflection-models.md)
-  - [✍Self-assessment  (Post-course)](module-05-02-self-assessment-post-course.md)
+  - [✍ Self-assessment (Post-course)](module-05-02-self-assessment-post-course.md)
   - [Survey Monkey](module-05-03-survey-monkey.md)
 - Additional resources
   - [Additional resources Overview](additional-resources.md)

@@ -25,7 +25,7 @@ Instructional strategies are the tools and techniques that Instructors use to de
 
 <div class="card">
 
-## [✍Select effective Instructional strategies for online learning](module-04-02-select-effective-instructional-strategies-for-online-learning.md) <!-- {docsify-ignore} -->
+## [✍ Select effective Instructional strategies for online learning](module-04-02-select-effective-instructional-strategies-for-online-learning.md) <!-- {docsify-ignore} -->
 
 In this ITO course, we have started planning our online courses with the end in mind. We have articulated our course outcomes, module learning objectives and decided what types of formative and summative assessments we could use. The final stage of the Backward planning process is deciding how you will teach. In this phase of the design process you need to think about instructional strategies and learning activities that would work best to provide students with the resources and information they need to achieve your course outcomes and objectives.
 

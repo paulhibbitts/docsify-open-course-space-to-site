@@ -25,7 +25,7 @@ Assessing student learning is an essential component of effective online teachin
 
 <div class="card">
 
-## [✍Select effective assessments and activities that align with course outcomes](module-03-02-select-effective-assessments-and-activities-that-align-with-course-outcomes.md) <!-- {docsify-ignore} -->
+## [✍ Select effective assessments and activities that align with course outcomes](module-03-02-select-effective-assessments-and-activities-that-align-with-course-outcomes.md) <!-- {docsify-ignore} -->
 
 This document lists a selection of assessments and activities that you could incorporate into your online course.
 
