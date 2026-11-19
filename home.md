@@ -31,7 +31,7 @@ I look forward to working with you all.
 
 
 
-<div class="card-list-rows">
+<div class="card-list-rows card-lines-2">
 
 <div class="card">
 

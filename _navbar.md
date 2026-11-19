@@ -2,4 +2,3 @@
 - [Modules](modules.md)
 - [Essentials](essentials.md)
 - [Resources](resources.md)
-- [Syllabus](syllabus.md)

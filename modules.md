@@ -2,7 +2,7 @@
 
 Below are the modules available for this course.
 
-<div class="card-list">
+<div class="card-list card-lines-2">
 
 <div class="card">
 

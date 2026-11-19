@@ -13,7 +13,7 @@ The purpose of this module is to continue using the Understanding by Design fram
 > 2. Align the learning experiences and instruction with the module learning objectives.
 
 
-<div class="card-list-rows">
+<div class="card-list-rows card-lines-2">
 
 <div class="card">
 

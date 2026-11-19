@@ -9,7 +9,7 @@ There are three activities in this module which you are required to work through
 - The final activity in this module is a discussion post where you are asked to share your online learning experiences.
 
 
-<div class="card-list-rows">
+<div class="card-list-rows card-lines-2">
 
 <div class="card">
 

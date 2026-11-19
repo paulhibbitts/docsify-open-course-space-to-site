@@ -14,7 +14,7 @@ The purpose of this module is to get you to consider the online environment and 
 > 3. Breakdown each course outcome into learning objectives using the formula **Action**  **Verb +Noun+ Context = Learning Objective** , which clearly articulate what the student will be able to do at the end of the module.
 
 
-<div class="card-list-rows">
+<div class="card-list-rows card-lines-2">
 
 <div class="card">
 

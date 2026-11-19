@@ -13,7 +13,7 @@ The purpose of this module is to reflect on what you have learned in this course
 >    - How you will use it? (have the barriers you identified in week one been removed?
 
 
-<div class="card-list-rows">
+<div class="card-list-rows card-lines-2">
 
 <div class="card">
 

@@ -146,7 +146,7 @@ Authentic assessments -
 > The following LTI tool item(s) could not be converted and must be accessed in the original course: "Academic Integrity Tutorial"
 
 
-<div class="card-list-rows">
+<div class="card-list-rows card-lines-2">
 
 <div class="card">
 
