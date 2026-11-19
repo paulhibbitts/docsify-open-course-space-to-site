@@ -13,7 +13,7 @@ There are three activities in this module which you are required to work through
 
 <div class="card">
 
-## [✍Competencies for Online Teaching.](module-01-01-competencies-for-online-teaching.md) <!-- {docsify-ignore} -->
+## [✍Competencies for Online Teaching](module-01-01-competencies-for-online-teaching.md) <!-- {docsify-ignore} -->
 
 Being a successful instructor in an online or distributed learning environment requires different competencies than in a traditional classroom environment. As an instructor you will need to develop and use skills and abilities related to the technical, administrative and pedagogical roles an instructor plays. In the activity below match each statement with the competency.
 

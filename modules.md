@@ -14,7 +14,7 @@ The purpose of this module is to get you to start thinking about the competencie
 
 <div class="card">
 
-## [Module 2 - Considering the online context, create and organize learning outcomes.](module-2-considering-the-online-context-create-and-organize-learning-outcomes.md) <!-- {docsify-ignore} -->
+## [Module 2 - Considering the online context, create and organize learning outcomes](module-2-considering-the-online-context-create-and-organize-learning-outcomes.md) <!-- {docsify-ignore} -->
 
 Consider the online learning environment and create and organize course outcomes / learning objectives
 
@@ -22,7 +22,7 @@ Consider the online learning environment and create and organize course outcomes
 
 <div class="card">
 
-## [Module 3 - Select and use effective online formative and summative assessment strategies.](module-3-select-and-use-effective-online-formative-and-summative-assessment-strategies.md) <!-- {docsify-ignore} -->
+## [Module 3 - Select and use effective online formative and summative assessment strategies](module-3-select-and-use-effective-online-formative-and-summative-assessment-strategies.md) <!-- {docsify-ignore} -->
 
 Select and use effective online formative and summative assessment strategies to determine student success in achieving the expected learning objectives
 
@@ -30,7 +30,7 @@ Select and use effective online formative and summative assessment strategies to
 
 <div class="card">
 
-## [Module 4 - Select and use effective online instructional approaches.](module-4-select-and-use-effective-online-instructional-approaches.md) <!-- {docsify-ignore} -->
+## [Module 4 - Select and use effective online instructional approaches](module-4-select-and-use-effective-online-instructional-approaches.md) <!-- {docsify-ignore} -->
 
 Select and use effective online instructional approaches and align with outcomes.
 
@@ -38,7 +38,7 @@ Select and use effective online instructional approaches and align with outcomes
 
 <div class="card">
 
-## [Module 5 - Reflections of online learning and implications for practice.](module-5-reflections-of-online-learning-and-implications-for-practice.md) <!-- {docsify-ignore} -->
+## [Module 5 - Reflections of online learning and implications for practice](module-5-reflections-of-online-learning-and-implications-for-practice.md) <!-- {docsify-ignore} -->
 
 The course outcome is to: Reflect on your experiences as an online learner and show how it will influence you online teaching.
 

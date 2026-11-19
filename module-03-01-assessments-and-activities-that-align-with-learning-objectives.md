@@ -1,4 +1,4 @@
-# Assessments and activities that align with learning objectives.
+# Assessments and activities that align with learning objectives
 
 ## Gathering evidence of student learning and understanding
 

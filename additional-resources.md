@@ -156,7 +156,7 @@ Authentic assessments -
 
 <div class="card">
 
-## [Active Learning whilst physically distancing.](module-07-02-active-learning-whilst-physically-distancing.md) <!-- {docsify-ignore} -->
+## [Active Learning whilst physically distancing](module-07-02-active-learning-whilst-physically-distancing.md) <!-- {docsify-ignore} -->
 
 If you are looking for practical strategies to make your teaching engaging and impactful, this document outlines some approaches that you can use in online synchronous, online asynchronous and face-to-face distanced settings.
 

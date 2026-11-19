@@ -1,4 +1,4 @@
-# Module 3 - Select and use effective online formative and summative assessment strategies.
+# Module 3 - Select and use effective online formative and summative assessment strategies
 
 **The course outcome is to:**
 
@@ -17,7 +17,7 @@ The purpose of this module is to continue using the Understanding by Design fram
 
 <div class="card">
 
-## [Assessments and activities that align with learning objectives.](module-03-01-assessments-and-activities-that-align-with-learning-objectives.md) <!-- {docsify-ignore} -->
+## [Assessments and activities that align with learning objectives](module-03-01-assessments-and-activities-that-align-with-learning-objectives.md) <!-- {docsify-ignore} -->
 
 Assessing student learning is an essential component of effective online teaching. When thinking about assessments in your online course it is important that they align with your course outcomes and learning objectives. You need to ensure that you are assessing exactly what it is you intend your students to learn.
 
@@ -25,7 +25,7 @@ Assessing student learning is an essential component of effective online teachin
 
 <div class="card">
 
-## [✍Select effective assessments and activities that align with course outcomes.](module-03-02-select-effective-assessments-and-activities-that-align-with-course-outcomes.md) <!-- {docsify-ignore} -->
+## [✍Select effective assessments and activities that align with course outcomes](module-03-02-select-effective-assessments-and-activities-that-align-with-course-outcomes.md) <!-- {docsify-ignore} -->
 
 This document lists a selection of assessments and activities that you could incorporate into your online course.
 
