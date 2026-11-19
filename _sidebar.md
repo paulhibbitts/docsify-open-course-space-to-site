@@ -1,0 +1,42 @@
+- Module 1 - Pre-session activities
+  - [Module 1 Overview](module-1-pre-session-activities.md)
+  - [✍Competencies for Online Teaching.](module-01-01-competencies-for-online-teaching.md)
+- Module 2 - Considering the online context, create and organize learning outcomes.
+  - [Module 2 Overview](module-2-considering-the-online-context-create-and-organize-learning-outcomes.md)
+  - [Considering the online context](module-02-01-considering-the-online-context.md)
+  - [Begin with the end in mind - Backward planning](module-02-02-begin-with-the-end-in-mind-backward-planning.md)
+  - [✍Self-assessment (Pre-course)](module-02-03-self-assessment-pre-course.md)
+  - [✍Writing your own course outcomes and learning objectives](module-02-04-writing-your-own-course-outcomes-and-learning-objectives.md)
+- Module 3 - Select and use effective online formative and summative assessment strategies.
+  - [Module 3 Overview](module-3-select-and-use-effective-online-formative-and-summative-assessment-strategies.md)
+  - [Assessments and activities that align with learning objectives.](module-03-01-assessments-and-activities-that-align-with-learning-objectives.md)
+  - [✍Select effective assessments and activities that align with course outcomes.](module-03-02-select-effective-assessments-and-activities-that-align-with-course-outcomes.md)
+  - [START-STOP-CONTINUE](module-03-03-start-stop-continue.md)
+- Module 4 - Select and use effective online instructional approaches.
+  - [Module 4 Overview](module-4-select-and-use-effective-online-instructional-approaches.md)
+  - [Instructional strategies](module-04-01-instructional-strategies.md)
+  - [✍Select effective Instructional strategies for online learning](module-04-02-select-effective-instructional-strategies-for-online-learning.md)
+- Module 5 - Reflections of online learning and implications for practice.
+  - [Module 5 Overview](module-5-reflections-of-online-learning-and-implications-for-practice.md)
+  - [Reflection models](module-05-01-reflection-models.md)
+  - [✍Self-assessment  (Post-course)](module-05-02-self-assessment-post-course.md)
+  - [Survey Monkey](module-05-03-survey-monkey.md)
+- Easy access to course files
+  - [Overview](easy-access-to-course-files.md)
+  - [Competencies-for-Online-Teaching.pdf](module-06-01-competencies-for-online-teaching.md)
+  - [Aligning assessments and activities to learning outcomes according to Blooms levels.pdf](module-06-02-aligning-assessments-and-activities-to-learning-outcomes-according-to-blooms-levels.md)
+  - [Considerations for online teaching and their importance.pdf](module-06-03-considerations-for-online-teaching-and-their-importance.md)
+  - [Considerations for online teaching and learning checklist.pdf](module-06-04-considerations-for-online-teaching-and-learning-checklist.md)
+  - [good-practice-guidelines-for-remote-teaching.pdf](module-06-05-good-practice-guidelines-for-remote-teaching.md)
+  - [blooms_taxonomy_action_verbs.pdf](module-06-06-bloomstaxonomyactionverbs.md)
+  - [Backward planning template](module-06-07-backward-planning-template.md)
+  - [Assessment-Tools-Activities DE Toolkit.pdf](module-06-08-assessment-tools-activities-de-toolkit.md)
+  - [Example of completed Backward planning template for reference.](module-06-09-example-of-completed-backward-planning-template-for-reference.md)
+- Additional resources
+  - [Overview](additional-resources.md)
+  - [Do This, Not That Online Teaching @ KIS.pdf](module-07-01-do-this-not-that-online-teaching-kis.md)
+  - [Workload estimator](module-07-02-workload-estimator.md)
+  - [netiquette-usask-simple-290720.pdf](module-07-03-netiquette-usask-simple-290720.md)
+  - [netiquette-usask-detailed-270720.pdf](module-07-04-netiquette-usask-detailed-270720.md)
+  - [Active Learning whilst physically distancing.](module-07-05-active-learning-whilst-physically-distancing.md)
+  - [Zoom web conferencing](module-07-06-zoom-web-conferencing.md)
